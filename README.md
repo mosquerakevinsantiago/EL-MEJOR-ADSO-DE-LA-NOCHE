@@ -12,7 +12,7 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 0. 🚀 **Belman Marin Franco**
 
 1. 😭 **Dayvid Alexaner Ruiz Hernandez**
-2. 🐨**Nikol Vannesa Castañeda Carrillo**
+2. 👌**Vannesa Castañeda**
 3. ✌️**Johan Gonzalo Garcia Walteros**
 6.😂 **YIra Dirley Gomez Hurtado**
 7.❤️**Leydi Carolina Ramírez Rodríguez**
@@ -22,8 +22,7 @@ Cada estudiante deberá modificar este archivo **README.md**, colocando un emoji
 11. 👺 **Juan Sebastian Diaz** 
 12. 🦁 **Josue Esteban Castañeda Palomo**
 14. 🦋 **Herly Johana Villamizar**
-15.  **kevin santiago mosquera perea**
-
+15.  😆**kevin santiago mosquera perea**
 
 
 
